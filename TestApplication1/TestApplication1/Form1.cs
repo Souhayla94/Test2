@@ -19,7 +19,7 @@ namespace TestApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Bienvenue!!!!!!");
+            MessageBox.Show("Welcome to SAGE!!!!!!");
         }
     }
 }
